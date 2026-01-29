@@ -1,2 +1,2 @@
 # Resume_project
-Basic HTML resume project
+My Resume made using semantic HTML and with best practices.
